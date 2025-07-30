@@ -2,12 +2,8 @@
 
 Game Hub is a modern and user-friendly desktop application that allows you to manage your game libraries from all major PC platforms in one place.
 
-<details>
-<summary><strong>Açıklamayı Türkçe oku</strong></summary>
-
-**Oyun Merkezi**, tüm PC oyun kütüphanelerinizi tek bir yerden yönetmenizi sağlayan modern ve kullanıcı dostu bir masaüstü uygulamasıdır. "Bugün ne oynasam?" kararsızlığına son vermek ve tüm oyun koleksiyonunuzu kolayca keşfetmek için tasarlanmıştır.
-
-</details>
+![GameHub_v1_0_0.png](<img width="928" height="500" alt="örnekfoto" src="https://github.com/user-attachments/assets/b99dee8c-e85b-4398-be14-b606f39ecac1" />
+) 
 
 ---
 
