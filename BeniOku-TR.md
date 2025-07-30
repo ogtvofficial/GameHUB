@@ -28,7 +28,7 @@ Game Hub, tüm PC oyun kütüphanelerinizi tek bir yerden yönetmenizi sağlayan
 
 ### 🚀 Nasıl Kullanılır?
 
-1.  En son sürümü indirmek için **[Releases sayfasına gidin](https://github.com/KULLANICIADINIZ/GameHub/releases)**.
+1.  En son sürümü indirmek için **[Releases sayfasına gidin](https://github.com/ogtvofficial/GameHUB/releases)**.
 2.  `GameHub.zip` dosyasını indirin.
 3.  İndirdiğiniz `.zip` dosyasını bir klasöre çıkarın.
 4.  `GameHub.exe` dosyasına çift tıklayarak uygulamayı başlatın! Kısa bi kurulumdan sonra açılıcaktır
