@@ -28,7 +28,7 @@ Game Hub is a modern and user-friendly desktop application that allows you to ma
 
 ### 🚀 How to Use
 
-1.  **[Go to the Releases page](https://github.com/YOUR_USERNAME/YOUR_REPONAME/releases)** to download the latest version.
+1.  **[Go to the Releases page]([https://github.com/YOUR_USERNAME/YOUR_REPONAME/releases](https://github.com/ogtvofficial/GameHUB/releases))** to download the latest version.
 2.  Download the `GameHub.zip` file.
 3.  Extract the `.zip` file to a folder.
 4.  Launch the application by double-clicking `GameHub.exe` then click install after installing it will open.
