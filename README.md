@@ -2,7 +2,7 @@
 
 Game Hub is a modern and user-friendly desktop application that allows you to manage your game libraries from all major PC platforms in one place.
 
-[GameHub_v1_0_0.png](<img width="928" height="500" alt="örnekfoto" src="https://github.com/user-attachments/assets/b99dee8c-e85b-4398-be14-b606f39ecac1" />)
+![GameHub_v1_0_0.png](<img width="928" height="500" alt="örnekfoto" src="https://github.com/user-attachments/assets/b99dee8c-e85b-4398-be14-b606f39ecac1" />)
 
 ---
 
