@@ -13,7 +13,6 @@ Game Hub is a modern and user-friendly desktop application that allows you to ma
 *   **Personalization:**
     *   **Favorites & Blacklist:** Add your beloved games to a favorites list or exclude them from random picks.
     *   **Tagging System:** Organize your library by adding custom tags like "Multiplayer" or "Story-Rich".
-    *   **Playtime Tracking:** Automatically tracks and saves how long you play each game.
 *   **Modern Interface:**
     *   **Multi-Language Support:** Switch between Turkish and English with a single click.
     *   **Light & Dark Themes:** Choose the theme that best suits your preference.
@@ -24,5 +23,5 @@ Game Hub is a modern and user-friendly desktop application that allows you to ma
 1.  **[Go to the Releases page](https://github.com/ogtvofficial/GameHUB/releases)** to download the latest version.
 2.  Download the `GameHub.zip` file.
 3.  Extract the `.zip` file to a folder.
-4.  Launch the application by double-clicking `GameHub.exe` then click install after installing it will open.
+4.  Launch the application by double-clicking `GameHub.exe`.
 
