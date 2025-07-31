@@ -1,4 +1,4 @@
-# Game Hub v1.0.0
+# Game Hub
 
 Game Hub is a modern and user-friendly desktop application that allows you to manage your game libraries from all major PC platforms in one place.
 
