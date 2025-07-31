@@ -13,8 +13,7 @@ Game Hub, tüm PC oyun kütüphanelerinizi tek bir yerden yönetmenizi sağlayan
 *   **Kişiselleştirme:**
     *   **Favori & Kara Liste:** Sevdiğiniz oyunları favorilerinize ekleyin veya oynamak istemediklerinizi kara listeye alın.
     *   **Etiket Sistemi:** Oyunlarınıza "Multiplayer", "Hikayeli" gibi özel etiketler ekleyerek kütüphanenizi organize edin.
-    *   **Oynama Süresi Takibi:** Bir oyunu ne kadar süre oynadığınızı otomatik olarak takip eder.
-*   **Modern Arayüz:**
+   *   **Modern Arayüz:**
     *   **Çoklu Dil Desteği:** Tek tıkla Türkçe ve İngilizce arasında geçiş yapın.
     *   **Açık & Koyu Tema:** Göz zevkinize uygun temayı seçin.
 *   **API Anahtarı Gerekmez:** Uygulama, herhangi bir kişisel API anahtarı veya giriş bilgisi gerektirmeden, tamamen yerel verilerle güvenli bir şekilde çalışır.
