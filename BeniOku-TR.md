@@ -1,4 +1,4 @@
-# Game Hub v1.0.0
+# Game Hub
 
 Game Hub, tüm PC oyun kütüphanelerinizi tek bir yerden yönetmenizi sağlayan modern ve kullanıcı dostu bir masaüstü uygulamasıdır.
 
